@@ -1,0 +1,24 @@
+
+body{
+	background-color: Azure;
+	}
+	hr{
+		background-color: Azure;
+		border-color: LightGray;
+		border-style:none; 
+		border-top-style: dotted;
+		border-width: 5px;
+		width: 7%;
+		}
+	h1{
+		color: #D2691E;
+		letter-spacing: 5px;
+	}
+	h3{color: 	#D2691E;}
+ 
+	#profile-picture{  /*this is an "id selector" */
+		border-radius: 100%;
+	}
+
+
+
